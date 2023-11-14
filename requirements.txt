@@ -1,4 +1,4 @@
-python3
+python 3.8
 sklearn
 matplotlib
 fastapi>=0.68.0,<0.69.0
