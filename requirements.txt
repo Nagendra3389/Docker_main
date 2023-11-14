@@ -1,5 +1,6 @@
 # Python version
-python==3.8
+python== 3.8-slim
+
 
 # Specific versions of scikit-learn and Matplotlib
 scikit-learn==0.24.2
